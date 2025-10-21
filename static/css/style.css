@@ -1,0 +1,20 @@
+h5{
+    font-weight: 700
+}
+
+.p{
+    padding: 50px;
+    margin: 50px;
+}
+
+div img{
+    padding: 20px;
+    margin: 20px;
+}
+
+.card{
+    margin: 50px;
+    position: relative;
+    top: 300px;
+    left: 30%;
+}
